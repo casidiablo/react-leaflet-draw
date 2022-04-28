@@ -70,7 +70,7 @@ function EditControl(props) {
       isEqual(props.edit, propsRef.current.edit) &&
       props.position === propsRef.current.position
     ) {
-      return false;
+      return null;
     }
     const { map } = context;
 

@@ -1,6 +1,6 @@
 {
-  "name": "react-leaflet-draw",
-  "version": "0.19.8",
+  "name": "casidiablo-react-leaflet-draw",
+  "version": "0.19.9",
   "description": "React component for leaflet-draw",
   "main": "dist/react-leaflet-draw.js",
   "module": "dist/esm/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alex3165/react-leaflet-draw.git"
+    "url": "git+ssh://git@github.com/casidiablo/react-leaflet-draw.git"
   },
   "files": [
     "dist",

@@ -1,6 +1,6 @@
 {
   "name": "casidiablo-react-leaflet-draw",
-  "version": "0.19.9",
+  "version": "0.19.11",
   "description": "React component for leaflet-draw",
   "main": "dist/react-leaflet-draw.js",
   "module": "dist/esm/index.js",
